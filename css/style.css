@@ -1,0 +1,106 @@
+/*Index */
+
+body {
+    background-color: coral;
+}
+
+
+.container-fluid {
+    background-color: darkcyan;
+}
+
+
+.collapse {
+    display: flex;
+    justify-content: center;
+}
+
+
+ul {
+    list-style-type: none;
+    font-family: Helvetica, sans-serif, Arial;
+    font-size: 20px;
+}
+
+.titulo1, .titulo2 {
+    margin: 10px
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+/*carrusel galeria fotos maquinas*/
+
+.contenedor-carousel{display: flex;
+    align-items: center;
+    justify-content: center;}
+
+.slide{width: 700px;
+    padding: 50px;
+
+    }
+
+
+h2,
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+footer {
+    font-family: Helvetica, sans-serif, Arial;
+    height: 50px;
+}
+
+
+/*FOOTER*/
+
+.contenedor-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vinculo {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+/*Contacto */
+
+form {
+    background-color: rgb(0, 128, 255);
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+option {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+form p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
